@@ -14,10 +14,17 @@ Key Features:
    
 This project aims to contribute to personalized health insights and future risk forecasting for glaucoma patients.
 
--> Technologies Used:
+Technologies Used:
+
 -> Python
+
 -> Scikit-learn
+
 -> Imbalanced-learn
+
 -> Matplotlib
+
 -> Seaborn
+
 -> Google Colab
+
